@@ -1,0 +1,30 @@
+﻿h1 {
+color: #e9967a;
+font-size: 50px;
+text-decoration: none;
+text-align: center; 
+background: #f6d2c6;
+font: italic small-caps bold 50px "Papyrus, fantasy;"
+}
+h2{
+color: #4583b4;
+font-size: px;
+text-decoration: none;
+text-align: left; 
+background: #a9c6de;
+}
+h3{
+color: #9696ea;
+font-size: px;
+text-decoration: none;
+text-align: left; 
+background: #e6e6fa;
+}
+div {
+text-align:center;
+width:200px;
+height:289px;
+border:4px solid #999;
+background:transparent url(/imagem.jpg);
+}
+
