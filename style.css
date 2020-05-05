@@ -1,10 +1,13 @@
-﻿h1 {
+﻿hh1 {
 color: #e9967a;
 font-size: 50px;
 text-decoration: none;
-text-align: center; 
-background: #f6d2c6;
+text-align: center;
 font: italic small-caps bold 50px "Papyrus, fantasy;"
+} 
+h1 {
+background: #fccfc0;
+background: linear-gradient(#faebd7,#fccfc0);
 }
 h2{
 color: #4583b4;
@@ -13,12 +16,18 @@ text-decoration: none;
 text-align: left; 
 background: #a9c6de;
 }
+h2 {
+background: linear-gradient(#faebd7,#a9c6de);
+}
 h3{
 color: #9696ea;
 font-size: px;
 text-decoration: none;
 text-align: left; 
 background: #e6e6fa;
+}
+h3 {
+background: linear-gradient(#faebd7,#e6e6fa);
 }
 div {
 text-align:center;
@@ -27,4 +36,6 @@ height:289px;
 border:4px solid #999;
 background:transparent url(/imagem.jpg);
 }
-
+body {
+  background: #faebd7;
+}
